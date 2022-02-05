@@ -37,9 +37,11 @@ Here are some ideas to get you started:
   &#160;&#160;
   <img align="center" alt="Rafa-gimp" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
   &#160;&#160;
+  <img align="center" alt="Rafa-blockchain" height="80" width="80" src="https://img.freepik.com/vetores-gratis/icone-de-tecnologia-blockchain-emblema-de-vetor-de-servico-de-pagamento-de-criptomoeda-cubos-azuis-com-chave-trilhas-da-placa-mae-do-computador-tecnologia-de-dinheiro-digital-banco-de-dados-de-transacoes-eletronicas-futuras_8071-4782.jpg?size=338&ext=jpg">
+  &#160;&#160;
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://andersonsilva.net.br/img/hero/img.jpg">
 </div>
-  
+  https://www.flaticon.com/br/icone-gratis/blockchain_2624194
   ##
  
 <div> 
