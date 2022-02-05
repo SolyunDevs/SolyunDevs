@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   &#160;&#160;
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://andersonsilva.net.br/img/hero/img.jpg">
 </div>
-  https://www.flaticon.com/br/icone-gratis/blockchain_2624194
+  
   ##
  
 <div> 
