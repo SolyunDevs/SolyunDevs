@@ -51,6 +51,6 @@ Here are some ideas to get you started:
   &#160;&#160;
   <a href="https://andersonsilva.net.br" target="_blank"> <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
  
-  ![Snake animation](https://github.com/solyundevs/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
