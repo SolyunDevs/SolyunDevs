@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   &#160;&#160;
   <img align="center" alt="Rafa-blockchain" height="80" width="80" src="https://img.freepik.com/vetores-gratis/icone-de-tecnologia-blockchain-emblema-de-vetor-de-servico-de-pagamento-de-criptomoeda-cubos-azuis-com-chave-trilhas-da-placa-mae-do-computador-tecnologia-de-dinheiro-digital-banco-de-dados-de-transacoes-eletronicas-futuras_8071-4782.jpg?size=338&ext=jpg">
   &#160;&#160;
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://andersonsilva.net.br/img/hero/img.jpg">
+  
 </div>
   
   ##
